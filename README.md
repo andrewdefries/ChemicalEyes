@@ -9,3 +9,16 @@ Statement of the solution: Detection of compound  mentions in plain text are use
 
 
 ![ChemicalEyes](https://github.com/andrewdefries/ChemicalEyes/blob/master/ChemicalEyes.png)
+
+
+Dependencies
+=============
+
+The following cheminformatics working environment has been tested on Debian (wheezy suggested) and Ubuntu (currently testing on Ectopic Unicorn 14.04).
+```
+#Or try line by line to see build errors
+chmod +x cheminformatics_bootstrap 
+
+./cheminformatics_bootstrap.sh
+
+```
