@@ -14,7 +14,7 @@
    id="svg2994"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="chemicaleyes.svg">
+   sodipodi:docname="ChemicalEyes.svg">
   <defs
      id="defs2996" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.68797607"
-     inkscape:cx="526.18109"
-     inkscape:cy="372.04724"
+     inkscape:cx="510.71428"
+     inkscape:cy="254.69264"
      inkscape:current-layer="layer1"
      id="namedview2998"
      showgrid="true"
@@ -62,31 +62,21 @@
        id="rect3003"
        width="154.32156"
        height="223.42078"
-       x="158.72252"
-       y="229.90503" />
+       x="478.72491"
+       y="181.49219" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 181.68031,267.92108 c 20,0 100,0 100,0"
+       d="m 507.68268,213.50827 c 20,0 100.00001,0 100.00001,0"
        id="path3007"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 181.68031,307.92108 100,0"
-       id="path3009"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 181.68031,347.92108 100,0"
-       id="path3011"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 181.68031,427.92108 100,0"
+       d="m 505.68268,379.50827 100.00001,0"
        id="path3013"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.92301661px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 181.60497,387.92108 102.23515,0"
+       d="m 505.60734,343.50827 102.23516,0"
        id="path3015"
        inkscape:connector-curvature="0" />
     <path
@@ -98,99 +88,301 @@
        sodipodi:rx="70"
        sodipodi:ry="60"
        d="m 220,444.09448 a 70,60 0 1 1 -140,0 70,60 0 1 1 140,0 z"
-       transform="matrix(0.6208272,0,0,0.72050014,77.741135,-35.311111)" />
+       transform="matrix(0.6208272,0,0,0.72050014,81.17253,-50.76465)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3.12519693;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 139.90746,317.74256 -80.000005,60 20,20 z"
+       d="m 143.33886,302.28903 -80.000009,60 19.999999,20 z"
        id="path3792"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 84.613275,266.43494 -40,-30 50,-10 c 3.12035,17.31456 8.611215,27.50923 -10,40 z"
+       d="m 88.04467,250.98141 -39.999999,-30 49.999999,-10 c 3.12035,17.31456 8.61122,27.50923 -10,40 z"
        id="path3796-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 90.055715,261.04653 c -4.26145,-5.97384 -7.90656,-8.40956 -2.7238,-17.82082 7.37247,-2.03245 7.78675,-3.18521 11.176185,-0.30535"
+       d="m 93.48711,245.593 c -4.26145,-5.97384 -7.90656,-8.40956 -2.7238,-17.82082 7.37247,-2.03245 7.78675,-3.18521 11.17619,-0.30535"
        id="path3798-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:#1a1a1a;stroke:#000000;stroke-width:1.79957199;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 88.451695,257.48594 c -2.68428,-3.88021 -3.1542,-6.58007 -1.83603,-10.54871 0.92748,-2.79238 1.11515,-2.97485 3.91471,-3.80623 1.61729,-0.48029 3.70256,-0.87324 4.63393,-0.87324 l 1.6934,0 -0.24281,5.07866 c -0.25274,5.28616 -1.17905,7.64632 -4.61904,11.76891 l -1.3252,1.58817 -2.21896,-3.20756 z"
+       d="m 91.88309,242.03241 c -2.68428,-3.88021 -3.1542,-6.58007 -1.83603,-10.54871 0.92748,-2.79238 1.11515,-2.97485 3.91471,-3.80623 1.61729,-0.48029 3.70256,-0.87324 4.63393,-0.87324 l 1.6934,0 -0.24281,5.07866 c -0.25274,5.28616 -1.17905,7.64632 -4.61904,11.76891 l -1.3252,1.58817 -2.21896,-3.20756 z"
        id="path3800-7"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="238"
-       y="506.09448"
+       x="520"
+       y="150.09448"
        id="text3851"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="238"
-         y="506.09448"
+         x="520"
+         y="150.09448"
          id="tspan3859"
-         style="text-align:center;text-anchor:middle">PDF or Image</tspan></text>
+         style="font-size:36px;text-align:center;text-anchor:middle">Chemical Name and Structure recognition</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="364.10437"
-       y="261.31552"
-       id="text3861"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3863"
-         x="364.10437"
-         y="261.31552">extract text</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="460"
-       y="324.09448"
-       id="text3869"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3871"
-         x="460"
-         y="324.09448">chemical vocabulary</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="560"
-       y="384.09448"
-       id="text3873"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3875"
-         x="560"
-         y="384.09448">pubchem lookup</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="662"
-       y="446.09448"
-       id="text3877"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3879"
-         x="662"
-         y="446.09448">chemical space </tspan><tspan
-         sodipodi:role="line"
-         x="662"
-         y="496.09448"
-         id="tspan3881">   analysis</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="160"
-       y="84.094482"
+       x="166"
+       y="62.094482"
        id="text3883"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3885"
-         x="160"
-         y="84.094482">Chemical Vision via Cheminformatics</tspan></text>
+         x="166"
+         y="62.094482">Chemical Vision via Cheminformatics</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 510.88296,251.5757 0,60 45,25 45.00001,-20 0,-65 -45.00001,-30"
+       id="path3026"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 555.88296,221.5757 -45,30"
+       id="path3028"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 553.88296,230.5757 -35,25"
+       id="path3030"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 518.88296,306.5757 35,20"
+       id="path3032"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 592.97451,253.75739 0,60"
+       id="path3034"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3003-2"
+       width="154.32156"
+       height="223.42078"
+       x="672.89966"
+       y="183.67249" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 701.85746,215.68858 c 20,0 100,0 100,0"
+       id="path3007-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 699.85746,381.68858 100,0"
+       id="path3013-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.92301661px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 695.4215,356.40981 102.23515,0"
+       id="path3015-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.47588015px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 689.22806,238.31581 25.13757,69.32167 62.8439,-17.33042 37.70635,17.33042 -25.13757,-69.32167 -62.8439,17.33042 z"
+       id="path3078"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3003-3"
+       width="154.32156"
+       height="223.42078"
+       x="861.55444"
+       y="185.30078" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 891.9658,204.23504 c 20,0 100,0 100,0"
+       id="path3007-57"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 888.51226,383.31689 100,0"
+       id="path3013-92"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.92301661px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 888.43692,347.31689 102.23515,0"
+       id="path3015-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 898,272.09448 -20,30 40,-10 50,10 10,-30 -50,-10 z"
+       id="path3103"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 918,292.09448 0,-60 10,30"
+       id="path3105"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 898,222.09448 20,10 20,-20"
+       id="path3107"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 918,292.09448 -10,30"
+       id="path3109"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 962.18584,301.91971 10,10"
+       id="path3113"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 970.18584,301.19294 10,10"
+       id="path3115"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="972"
+       y="330.09448"
+       id="text3117"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3119"
+         x="972"
+         y="330.09448"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">o</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="506"
+       y="206.09448"
+       id="text3121"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3123"
+         x="506"
+         y="206.09448"
+         style="font-size:22px">Benzene</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="678"
+       y="340.09448"
+       id="text3121-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3123-1"
+         x="678"
+         y="340.09448"
+         style="font-size:22px">Cyclohexane</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="890"
+       y="374.09448"
+       id="text3121-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3123-8"
+         x="890"
+         y="374.09448"
+         style="font-size:22px">Camphor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="142.10437"
+       y="517.31555"
+       id="text3861"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3863"
+         x="142.10437"
+         y="517.31555">extract text</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="238"
+       y="580.09448"
+       id="text3869"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3871"
+         x="238"
+         y="580.09448">chemical vocabulary</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="338"
+       y="640.09448"
+       id="text3873"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3875"
+         x="338"
+         y="640.09448">pubchem lookup</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="440"
+       y="702.09448"
+       id="text3877"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="440"
+         y="702.09448"
+         id="tspan3881">chemical space analysis</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.80122256;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3234"
+       width="1001.0784"
+       height="350.55411"
+       x="33.269405"
+       y="97.200203" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3003-23"
+       width="154.32156"
+       height="223.42078"
+       x="229.99738"
+       y="179.81958" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3003-23-4"
+       width="154.32156"
+       height="223.42078"
+       x="238.44182"
+       y="182.72665" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3003-23-8"
+       width="154.32156"
+       height="223.42078"
+       x="250.05273"
+       y="189.99435" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3003-23-0"
+       width="154.32156"
+       height="223.42078"
+       x="263.09662"
+       y="197.55623" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="290"
+       y="282.09448"
+       id="text3304"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3306"
+         x="290"
+         y="282.09448"> PDF </tspan><tspan
+         sodipodi:role="line"
+         x="290"
+         y="327.09448"
+         id="tspan3308">  or </tspan><tspan
+         sodipodi:role="line"
+         x="290"
+         y="372.09448"
+         id="tspan3310">Image</tspan></text>
   </g>
 </svg>
