@@ -10,6 +10,12 @@ Statement of the solution: Detection of compound  mentions in plain text are use
 
 ![ChemicalEyes](https://github.com/andrewdefries/ChemicalEyes/blob/master/ChemicalEyes.png)
 
+Database files
+==============
+
+You can download the required files from Pubchem to perform operations locally
+
+ftp://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
 
 Dependencies
 =============
