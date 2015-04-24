@@ -1,6 +1,6 @@
 rm *.pcid
 
-query=(`cat TrimListNoSpaces`)
+query=(`cat Overlap.txt`)
 
 for i in "${query[@]}"
 
