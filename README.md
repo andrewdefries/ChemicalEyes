@@ -17,6 +17,8 @@ You can download the required files from Pubchem to perform operations locally
 
 ftp://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
 
+The files have been sorted for use by comm. These pre-sorted files are [here](http://bit.ly/CID-Synonym-filtered_zip)
+
 Dependencies
 =============
 
